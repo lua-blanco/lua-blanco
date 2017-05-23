@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+
+
+body {
+	
+	background: url("http://i.imgur.com/76zW7PT.jpg");
+    background-size: cover;
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff; 
+    text-align: center;
+    font-weight: 50px 
+
+   
+}
+
+h1 {
+
+
+	font-size: 5em;	
+	text-align: center;
+	
+
+	
+
+}
+
+nav a { 
+	font-size: 1.5em;
+	color: inherit; 
+	padding:0 32;
+	text-decoration: none; 
+	margin-right: 0 40px 
+	text-transform: uppercase;
+	text-align: right;
+	
+
+	 
+}
